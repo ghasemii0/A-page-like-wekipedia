@@ -1,4 +1,4 @@
-li{
+.blue{
   color: blue;
 }
 img{
@@ -21,4 +21,19 @@ p.important {
   margin:6px;
   border:2px solid grey;
   padding: 12px;
+}
+.col-md-4 {
+  margin:6px;
+  border:2px solid grey;
+  padding: 12px;
+}
+img.to-right{
+  float: right;
+  height: 100px;
+  width: 200;
+}
+.box{
+  margin:1px;
+  border:1px solid grey;
+  padding: 1px;
 }
